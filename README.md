@@ -1,7 +1,5 @@
 <h1 align="center" id="title">HueFree</h1>
 
-<p align="center"><img src="https://github.com/piyushk77/HueFree/blob/main/resources/images/HueFree.png?raw=true" alt="project-image"></p>
-
 ## Description
 
 **HueFree** is a JavaScript library designed to assist developers in creating accessible web applications for color-blind individuals. The library offers a range of color manipulation methods to simulate different types of color blindness and provide color transformations that enhance accessibility.
